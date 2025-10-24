@@ -12,7 +12,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "MC UEH 2025 - Tìm kiếm MC xuất sắc",
   description: "Cuộc thi tìm kiếm MC xuất sắc nhất của Trường Đại học Kinh tế TP.HCM",
-  generator: "v0.app",
+  generator: "msc_center",
 }
 
 export default function RootLayout({
